@@ -1,0 +1,513 @@
+thread '<unnamed>' panicked at 'index out of bounds: the len is 1 but the index is 1', C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\chalk-ir-0.69.0\src\fold\subst.rs:58:19
+stack backtrace:
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+Panic context:
+> 
+version: ea105f939 2021-07-19 stable
+request: textDocument/codeAction CodeActionParams {
+    text_document: TextDocumentIdentifier {
+        uri: Url {
+            scheme: "file",
+            cannot_be_a_base: false,
+            username: "",
+            password: None,
+            host: None,
+            port: None,
+            path: "/c%3A/snip/ra_bug/src/lib.rs",
+            query: None,
+            fragment: None,
+        },
+    },
+    range: Range {
+        start: Position {
+            line: 2,
+            character: 34,
+        },
+        end: Position {
+            line: 2,
+            character: 34,
+        },
+    },
+    context: CodeActionContext {
+        diagnostics: [],
+        only: None,
+    },
+    work_done_progress_params: WorkDoneProgressParams {
+        work_done_token: None,
+    },
+    partial_result_params: PartialResultParams {
+        partial_result_token: None,
+    },
+}
+
+thread '<unnamed>' panicked at 'index out of bounds: the len is 1 but the index is 1', C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\chalk-ir-0.69.0\src\fold\subst.rs:58:19
+stack backtrace:
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+thread '<unnamed>' panicked at 'index out of bounds: the len is 1 but the index is 1', C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\chalk-ir-0.69.0\src\fold\subst.rs:58:19
+stack backtrace:
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+Panic context:
+> 
+version: ea105f939 2021-07-19 stable
+request: textDocument/codeAction CodeActionParams {
+    text_document: TextDocumentIdentifier {
+        uri: Url {
+            scheme: "file",
+            cannot_be_a_base: false,
+            username: "",
+            password: None,
+            host: None,
+            port: None,
+            path: "/c%3A/snip/ra_bug/src/lib.rs",
+            query: None,
+            fragment: None,
+        },
+    },
+    range: Range {
+        start: Position {
+            line: 2,
+            character: 35,
+        },
+        end: Position {
+            line: 2,
+            character: 35,
+        },
+    },
+    context: CodeActionContext {
+        diagnostics: [],
+        only: None,
+    },
+    work_done_progress_params: WorkDoneProgressParams {
+        work_done_token: None,
+    },
+    partial_result_params: PartialResultParams {
+        partial_result_token: None,
+    },
+}
+
+thread '<unnamed>' panicked at 'index out of bounds: the len is 1 but the index is 1', C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\chalk-ir-0.69.0\src\fold\subst.rs:58:19
+stack backtrace:
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+thread '<unnamed>' panicked at 'index out of bounds: the len is 1 but the index is 1', C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\chalk-ir-0.69.0\src\fold\subst.rs:58:19
+stack backtrace:
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+Panic context:
+> 
+version: ea105f939 2021-07-19 stable
+request: textDocument/codeAction CodeActionParams {
+    text_document: TextDocumentIdentifier {
+        uri: Url {
+            scheme: "file",
+            cannot_be_a_base: false,
+            username: "",
+            password: None,
+            host: None,
+            port: None,
+            path: "/c%3A/snip/ra_bug/src/lib.rs",
+            query: None,
+            fragment: None,
+        },
+    },
+    range: Range {
+        start: Position {
+            line: 2,
+            character: 34,
+        },
+        end: Position {
+            line: 2,
+            character: 34,
+        },
+    },
+    context: CodeActionContext {
+        diagnostics: [],
+        only: None,
+    },
+    work_done_progress_params: WorkDoneProgressParams {
+        work_done_token: None,
+    },
+    partial_result_params: PartialResultParams {
+        partial_result_token: None,
+    },
+}
+
+thread '<unnamed>' panicked at 'index out of bounds: the len is 1 but the index is 1', C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\chalk-ir-0.69.0\src\fold\subst.rs:58:19
+stack backtrace:
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+Panic context:
+> 
+version: ea105f939 2021-07-19 stable
+request: textDocument/codeAction CodeActionParams {
+    text_document: TextDocumentIdentifier {
+        uri: Url {
+            scheme: "file",
+            cannot_be_a_base: false,
+            username: "",
+            password: None,
+            host: None,
+            port: None,
+            path: "/c%3A/snip/ra_bug/src/lib.rs",
+            query: None,
+            fragment: None,
+        },
+    },
+    range: Range {
+        start: Position {
+            line: 0,
+            character: 0,
+        },
+        end: Position {
+            line: 0,
+            character: 0,
+        },
+    },
+    context: CodeActionContext {
+        diagnostics: [],
+        only: None,
+    },
+    work_done_progress_params: WorkDoneProgressParams {
+        work_done_token: None,
+    },
+    partial_result_params: PartialResultParams {
+        partial_result_token: None,
+    },
+}
+
+thread '<unnamed>' panicked at 'index out of bounds: the len is 1 but the index is 1', C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\chalk-ir-0.69.0\src\fold\subst.rs:58:19
+stack backtrace:
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+Panic context:
+> 
+version: ea105f939 2021-07-19 stable
+request: textDocument/codeAction CodeActionParams {
+    text_document: TextDocumentIdentifier {
+        uri: Url {
+            scheme: "file",
+            cannot_be_a_base: false,
+            username: "",
+            password: None,
+            host: None,
+            port: None,
+            path: "/c%3A/snip/ra_bug/src/lib.rs",
+            query: None,
+            fragment: None,
+        },
+    },
+    range: Range {
+        start: Position {
+            line: 0,
+            character: 0,
+        },
+        end: Position {
+            line: 0,
+            character: 0,
+        },
+    },
+    context: CodeActionContext {
+        diagnostics: [],
+        only: None,
+    },
+    work_done_progress_params: WorkDoneProgressParams {
+        work_done_token: None,
+    },
+    partial_result_params: PartialResultParams {
+        partial_result_token: None,
+    },
+}
+
+thread '<unnamed>' panicked at 'index out of bounds: the len is 1 but the index is 1', C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\chalk-ir-0.69.0\src\fold\subst.rs:58:19
+stack backtrace:
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+Panic context:
+> 
+version: ea105f939 2021-07-19 stable
+request: textDocument/codeAction CodeActionParams {
+    text_document: TextDocumentIdentifier {
+        uri: Url {
+            scheme: "file",
+            cannot_be_a_base: false,
+            username: "",
+            password: None,
+            host: None,
+            port: None,
+            path: "/c%3A/snip/ra_bug/src/lib.rs",
+            query: None,
+            fragment: None,
+        },
+    },
+    range: Range {
+        start: Position {
+            line: 1,
+            character: 32,
+        },
+        end: Position {
+            line: 1,
+            character: 32,
+        },
+    },
+    context: CodeActionContext {
+        diagnostics: [],
+        only: None,
+    },
+    work_done_progress_params: WorkDoneProgressParams {
+        work_done_token: None,
+    },
+    partial_result_params: PartialResultParams {
+        partial_result_token: None,
+    },
+}
+
+thread '<unnamed>' panicked at 'index out of bounds: the len is 1 but the index is 1', C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\chalk-ir-0.69.0\src\fold\subst.rs:58:19
+stack backtrace:
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+Panic context:
+> 
+version: ea105f939 2021-07-19 stable
+request: textDocument/codeAction CodeActionParams {
+    text_document: TextDocumentIdentifier {
+        uri: Url {
+            scheme: "file",
+            cannot_be_a_base: false,
+            username: "",
+            password: None,
+            host: None,
+            port: None,
+            path: "/c%3A/snip/ra_bug/src/lib.rs",
+            query: None,
+            fragment: None,
+        },
+    },
+    range: Range {
+        start: Position {
+            line: 1,
+            character: 32,
+        },
+        end: Position {
+            line: 1,
+            character: 32,
+        },
+    },
+    context: CodeActionContext {
+        diagnostics: [],
+        only: None,
+    },
+    work_done_progress_params: WorkDoneProgressParams {
+        work_done_token: None,
+    },
+    partial_result_params: PartialResultParams {
+        partial_result_token: None,
+    },
+}
+
+thread '<unnamed>' panicked at 'index out of bounds: the len is 1 but the index is 1', C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\chalk-ir-0.69.0\src\fold\subst.rs:58:19
+stack backtrace:
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+Panic context:
+> 
+version: ea105f939 2021-07-19 stable
+request: textDocument/codeAction CodeActionParams {
+    text_document: TextDocumentIdentifier {
+        uri: Url {
+            scheme: "file",
+            cannot_be_a_base: false,
+            username: "",
+            password: None,
+            host: None,
+            port: None,
+            path: "/c%3A/snip/ra_bug/src/lib.rs",
+            query: None,
+            fragment: None,
+        },
+    },
+    range: Range {
+        start: Position {
+            line: 0,
+            character: 0,
+        },
+        end: Position {
+            line: 0,
+            character: 0,
+        },
+    },
+    context: CodeActionContext {
+        diagnostics: [],
+        only: None,
+    },
+    work_done_progress_params: WorkDoneProgressParams {
+        work_done_token: None,
+    },
+    partial_result_params: PartialResultParams {
+        partial_result_token: None,
+    },
+}
+
+thread '<unnamed>' panicked at 'index out of bounds: the len is 1 but the index is 1', C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\chalk-ir-0.69.0\src\fold\subst.rs:58:19
+stack backtrace:
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+Panic context:
+> 
+version: ea105f939 2021-07-19 stable
+request: textDocument/codeAction CodeActionParams {
+    text_document: TextDocumentIdentifier {
+        uri: Url {
+            scheme: "file",
+            cannot_be_a_base: false,
+            username: "",
+            password: None,
+            host: None,
+            port: None,
+            path: "/c%3A/snip/ra_bug/src/lib.rs",
+            query: None,
+            fragment: None,
+        },
+    },
+    range: Range {
+        start: Position {
+            line: 1,
+            character: 32,
+        },
+        end: Position {
+            line: 1,
+            character: 32,
+        },
+    },
+    context: CodeActionContext {
+        diagnostics: [],
+        only: None,
+    },
+    work_done_progress_params: WorkDoneProgressParams {
+        work_done_token: None,
+    },
+    partial_result_params: PartialResultParams {
+        partial_result_token: None,
+    },
+}
+
+thread '<unnamed>' panicked at 'index out of bounds: the len is 1 but the index is 1', C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\chalk-ir-0.69.0\src\fold\subst.rs:58:19
+stack backtrace:
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+Panic context:
+> 
+version: ea105f939 2021-07-19 stable
+request: textDocument/codeAction CodeActionParams {
+    text_document: TextDocumentIdentifier {
+        uri: Url {
+            scheme: "file",
+            cannot_be_a_base: false,
+            username: "",
+            password: None,
+            host: None,
+            port: None,
+            path: "/c%3A/snip/ra_bug/src/lib.rs",
+            query: None,
+            fragment: None,
+        },
+    },
+    range: Range {
+        start: Position {
+            line: 0,
+            character: 0,
+        },
+        end: Position {
+            line: 0,
+            character: 0,
+        },
+    },
+    context: CodeActionContext {
+        diagnostics: [],
+        only: None,
+    },
+    work_done_progress_params: WorkDoneProgressParams {
+        work_done_token: None,
+    },
+    partial_result_params: PartialResultParams {
+        partial_result_token: None,
+    },
+}
+
+thread '<unnamed>' panicked at 'index out of bounds: the len is 1 but the index is 1', C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\chalk-ir-0.69.0\src\fold\subst.rs:58:19
+stack backtrace:
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+Panic context:
+> 
+version: ea105f939 2021-07-19 stable
+request: textDocument/codeAction CodeActionParams {
+    text_document: TextDocumentIdentifier {
+        uri: Url {
+            scheme: "file",
+            cannot_be_a_base: false,
+            username: "",
+            password: None,
+            host: None,
+            port: None,
+            path: "/c%3A/snip/ra_bug/src/lib.rs",
+            query: None,
+            fragment: None,
+        },
+    },
+    range: Range {
+        start: Position {
+            line: 1,
+            character: 32,
+        },
+        end: Position {
+            line: 1,
+            character: 32,
+        },
+    },
+    context: CodeActionContext {
+        diagnostics: [],
+        only: None,
+    },
+    work_done_progress_params: WorkDoneProgressParams {
+        work_done_token: None,
+    },
+    partial_result_params: PartialResultParams {
+        partial_result_token: None,
+    },
+}
+
+thread '<unnamed>' panicked at 'index out of bounds: the len is 1 but the index is 1', C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\chalk-ir-0.69.0\src\fold\subst.rs:58:19
+stack backtrace:
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+Panic context:
+> 
+version: ea105f939 2021-07-19 stable
+request: textDocument/codeAction CodeActionParams {
+    text_document: TextDocumentIdentifier {
+        uri: Url {
+            scheme: "file",
+            cannot_be_a_base: false,
+            username: "",
+            password: None,
+            host: None,
+            port: None,
+            path: "/c%3A/snip/ra_bug/src/lib.rs",
+            query: None,
+            fragment: None,
+        },
+    },
+    range: Range {
+        start: Position {
+            line: 0,
+            character: 0,
+        },
+        end: Position {
+            line: 0,
+            character: 0,
+        },
+    },
+    context: CodeActionContext {
+        diagnostics: [],
+        only: None,
+    },
+    work_done_progress_params: WorkDoneProgressParams {
+        work_done_token: None,
+    },
+    partial_result_params: PartialResultParams {
+        partial_result_token: None,
+    },
+}
+
+thread '<unnamed>' panicked at 'index out of bounds: the len is 1 but the index is 1', C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\chalk-ir-0.69.0\src\fold\subst.rs:58:19
+stack backtrace:
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
